@@ -10,7 +10,7 @@
 
 <body>
     <?php echo ("Bajo"); ?>
-
+<?php echo "Jajo"; ?> 
 </body>
 
 </html>
